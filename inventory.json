@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "type": "Milk",
+      "variants": [
+        "Yellow",
+        "Blue",
+        "Green",
+        "Red"
+      ],
+      "amount": "20",
+      "price": "15"
+    },
+    {
+      "type": "Bread",
+      "variants": [
+        "Light",
+        "Medium",
+        "Dark"
+      ],
+      "amount": "50",
+      "price": "30"
+    },
+    {
+      "type": "Candy",
+      "variants": [
+        "Polly",
+        "Marabou",
+        "Ahlgrens Bilar",
+        "No Variation",
+        "No Variation"
+      ],
+      "amount": "50",
+      "price": "19.99"
+    },
+    {
+      "type": "Pasta",
+      "variants": [
+        "Spaghetti",
+        "Tagliatelle",
+        "Penne",
+        "Farfelle",
+        "Campanelle"
+      ],
+      "amount": "900",
+      "price": "25.99"
+    }
+  ]
+}
